@@ -1,8 +1,8 @@
 # 30-days-challenge
 ___
-## Day 1 : 
+## Day 1 : lerning numpy 
 ___
-## Day 2 :
+## Day 2 : learning ufuncs in numpy 
 ___
 ## Day 3 :
 ___
