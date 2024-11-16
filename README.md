@@ -6,7 +6,7 @@ ___
 ___
 ## Day 3 : learning simple linear regression
 ___
-## Day 4 :
+## Day 4 : revised c 
 ___
 ## Day 5 : 
 ___
