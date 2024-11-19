@@ -12,7 +12,7 @@ ___
 ___
 ## Day 6 : practiced sorting mechanisms in c 
 ___
-## Day 7 :
+## Day 7 :   
 ___
 ## Day 8 :
 ___
