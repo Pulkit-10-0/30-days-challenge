@@ -14,7 +14,7 @@ ___
 ___
 ## Day 7 : started learning kotlin
 ___
-## Day 8 :
+## Day 8 : 
 ___
 ## Day 9 :
 ___
