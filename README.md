@@ -13,7 +13,7 @@ ___
 ## Day 6 : practiced sorting mechanisms in c 
 ___
 ## Day 7 : started learning kotlin
-___
+___   
 ## Day 8 : 
 ___
 ## Day 9 :
