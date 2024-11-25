@@ -18,7 +18,7 @@ ___
 ___                               
 ## Day 9 : java revised pattern problems 
 ___
-## Day 10 :
+## Day 10 : revised recursions in java
 ___
 ## Day 11 :
 ___
