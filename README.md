@@ -20,7 +20,7 @@ ___
 ___
 ## Day 10 : revised recursions in java
 ___
-## Day 11 :
+## Day 11 : kotlin
 ___
 ## Day 12 : 
 ___
