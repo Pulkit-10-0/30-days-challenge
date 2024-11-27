@@ -22,7 +22,7 @@ ___
 ___
 ## Day 11 : kotlin
 ___
-## Day 12 : 
+## Day 12 : kotlin
 ___
 ## Day 13 :
 ___
