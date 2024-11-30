@@ -28,7 +28,7 @@ ___
 ___
 ## Day 14 : kotlin
 ___
-## Day 15 :
+## Day 15 : code kshetra preprocessing
 ___
 ## Day 16 :
 ___
