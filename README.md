@@ -30,7 +30,7 @@ ___
 ___
 ## Day 15 : code kshetra preprocessing
 ___
-## Day 16 :
+## Day 16 : code kshetra summarizer
 ___
 ## Day 17 :
 ___
