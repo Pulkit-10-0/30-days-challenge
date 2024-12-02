@@ -32,7 +32,7 @@ ___
 ___
 ## Day 16 : code kshetra summarizer
 ___
-## Day 17 :
+## Day 17 : code kshetra grammer
 ___
 ## Day 18 :
 ___
