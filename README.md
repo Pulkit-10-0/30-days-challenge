@@ -34,7 +34,7 @@ ___
 ___
 ## Day 17 : code kshetra grammer
 ___
-## Day 18 :
+## Day 18 : semantic model 
 ___
 ## Day 19 : 
 ___
