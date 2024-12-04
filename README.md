@@ -38,7 +38,7 @@ ___
 ___
 ## Day 19 : trocr
 ___
-## Day 20 :
+## Day 20 : training ocr model 
 ___
 ## Day 21 :
 ___
