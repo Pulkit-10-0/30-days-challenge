@@ -36,7 +36,7 @@ ___
 ___
 ## Day 18 : semantic model 
 ___
-## Day 19 : 
+## Day 19 : trocr
 ___
 ## Day 20 :
 ___
