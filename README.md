@@ -40,7 +40,7 @@ ___
 ___
 ## Day 20 : training ocr model 
 ___
-## Day 21 :
+## Day 21 : ocr
 ___
 ## Day 22 :
 ___
