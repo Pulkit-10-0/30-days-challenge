@@ -42,7 +42,8 @@ ___
 ___
 ## Day 21 : ocr
 ___
-## Day 22 :
+## Day 22 : ocr model
+
 ___
 ## Day 23 :
 ___
