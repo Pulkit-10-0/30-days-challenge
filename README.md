@@ -45,7 +45,7 @@ ___
 ## Day 22 : ocr model
 
 ___
-## Day 23 :
+## Day 23 : fine tuning model
 ___
 ## Day 24 :
 ___
