@@ -47,7 +47,7 @@ ___
 ___
 ## Day 23 : fine tuning model
 ___
-## Day 24 :
+## Day 24 : ,m
 ___
 ## Day 25 :
 ___
