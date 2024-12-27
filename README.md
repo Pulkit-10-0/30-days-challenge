@@ -11,7 +11,7 @@ ___
 ## Day 5 : Polynomial regression 
 ___
 ## Day 6 : practiced sorting mechanisms in c 
-___
+___ 
 ## Day 7 : started learning kotlin
 ___   
 ## Day 8 : linear regression  
