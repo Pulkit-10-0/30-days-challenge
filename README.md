@@ -14,7 +14,7 @@ ___
 ___ 
 ## Day 7 : started learning kotlin
 ___   
-## Day 8 : linear regression  
+## Day 8 : linear regression    
 ___                               
 ## Day 9 : java revised pattern problems 
 ___
