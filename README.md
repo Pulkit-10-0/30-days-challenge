@@ -4,7 +4,7 @@ ___
 ___
 ## Day 2 : learning ufuncs in numpy   
 ___
-## Day 3 : learning simple linear regression    
+## Day 3 : learning simple linear regression       
 ___   
 ## Day 4 : revised c  
 ___
