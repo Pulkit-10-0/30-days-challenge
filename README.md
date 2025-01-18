@@ -8,7 +8,7 @@ ___
 ___        
 ## Day 4 : revised c  
 ___
-## Day 5 : Polynomial regression     
+## Day 5 : Polynomial regression           
 ___      
 ## Day 6 : practiced sorting mechanisms in c     
 ___ 
