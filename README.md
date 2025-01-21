@@ -7,7 +7,7 @@ ___
 ## Day 3 : learning simple linear regression              
 ___        
 ## Day 4 : revised c  
-___
+___     
 ## Day 5 : Polynomial regression              
 ___      
 ## Day 6 : practiced sorting mechanisms in c     
