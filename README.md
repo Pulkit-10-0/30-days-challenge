@@ -1,5 +1,5 @@
 # 30-days-challenge   
-___      
+___                 
 ## Day 1 : lerning numpy 
 ___   
 ## Day 2 : learning ufuncs in numpy                    
