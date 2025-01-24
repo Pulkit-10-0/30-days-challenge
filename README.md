@@ -17,7 +17,7 @@ ___
 ## Day 8 : linear regression    
 ___                               
 ## Day 9 : java revised pattern problems 
-___
+___ 
 ## Day 10 : revised recursions in java
 ___
 ## Day 11 : kotlin 
