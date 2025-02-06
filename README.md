@@ -5,7 +5,7 @@ ___
 ## Day 2 : learning ufuncs in numpy                      
 ___                    
 ## Day 3 : learning simple linear regression                       
-___        
+___         
 ## Day 4 : revised c      
 ___      
 ## Day 5 : Polynomial regression                                       
