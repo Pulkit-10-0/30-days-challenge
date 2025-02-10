@@ -9,7 +9,7 @@ ___
 ## Day 4 : revised c      
 ___       
 ## Day 5 : Polynomial regression                                       
-___      
+___        
 ## Day 6 : practiced sorting mechanisms in c     
 ___ 
 ## Day 7 : started learning kotlin                
