@@ -15,7 +15,7 @@ ___
 ## Day 7 : started learning kotlin                
 ___           
 ## Day 8 : linear regression    
-___                                
+___                                   
 ## Day 9 : java revised pattern problems 
 ___ 
 ## Day 10 : revised recursions in java
