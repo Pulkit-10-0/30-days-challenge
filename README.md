@@ -2,7 +2,7 @@
 ___                       
 ## Day 1 : lerning numpy           
 ___   
-## Day 2 : learning ufuncs in numpy                         
+## Day 2 : learning ufuncs in numpy                          
 ___                       
 ## Day 3 : learning simple linear regression                             
 ___           
